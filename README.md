@@ -3,8 +3,8 @@
 ## Steps to run Server through Terminal -
  1. Open terminal in the src folder.
  2. Use javac command to compile the file - `javac server/*.java`
- 3. Use the command to specify the port number and a server name and run the TCPServer.- `java server/ServerImpl <port-number> <server-name>`
- 4. The Server starts and. The key store stores a key of type string and value also of type string.
+ 3. Use the command to specify the port number and a server name and run the server.- `java server/ServerImpl <port-number> <server-name>`
+ 4. The Server starts. The key store stores a key of type string and value also of type string.
  5. The Server then awaits the client connection.
 
 ## Steps to close Server through Terminal -
